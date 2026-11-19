@@ -226,3 +226,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+P106_limpieza_pandas/src/diagnostics.py
